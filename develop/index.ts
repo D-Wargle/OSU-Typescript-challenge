@@ -7,7 +7,7 @@ import Cli from "./src/classes/Cli.js";
 
 // create an array of vehicles
 //
-//why is const vehicles = [] setting it to a type of never and noone else is having this issue
+//why is const vehicles = [] setting it to a type of never and not any?
 //
 // const vehicles = [];
 const vehicles: (Truck | Car | Motorbike)[] = [];
