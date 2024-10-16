@@ -2,6 +2,9 @@
 
 The Typescript Vehicle Program is a TypeScript-based project designed to simulate a vehicle builder with various features such as performing wheelies, towing, and accelerating/decelerating.
 
+Heres a link to the demo: https://www.youtube.com/watch?v=_X4QPsjHJBc
+and this is a second link for my google drive incase thats broken: https://drive.google.com/file/d/1Qc5PiWbgYE4lLOvITyUjCZGNsab3bPda/view?usp=sharing
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
